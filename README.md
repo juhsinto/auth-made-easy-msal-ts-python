@@ -8,30 +8,30 @@ I followed along to the tutorial by https://github.com/jade-codes/auth-made-easy
 #### Some screenshots:
 ##### Backend
 BE Endpoints
-![[be-Fastapi-endpoints.png]]
+![[be-Fastapi-endpoints.png]](screenshots/be-Fastapi-endpoints.png)
 
-Routes are protected:
-![[be-protected-routes.png]]
+Routes are protected: 
+![Routes are protected](screenshots/be-protected-routes.png)
 
-After Authorizing:
-![[be-before-authorization.png]]
+After Authorizing: 
+![After Authorizing](screenshots/be-before-authorization.png)
 
-Before Authorizing:
-![[be-after-authorization.png]]
+Before Authorizing: 
+![Before Authorizing](screenshots/be-after-authorization.png)
 
-Can now access Protected Routes:
-![[be-access-protected-routes.png]]
+Can now access Protected Routes: 
+![Can now access Protected Routes](screenshots/be-access-protected-routes.png)
 
 #### Frontend
 
-Front End without logging in
-![[fe-not-logged-in.png]]
+Front End without logging in 
+![Front End without logging in](screenshots/fe-not-logged-in.png)
 
-Trying to access /students, which is a protected route:
-![[fe-trying-to-access-protected-route.png]]
+Trying to access /students, which is a protected route: 
+![Trying to access students](screenshots/fe-trying-to-access-protected-route.png)
 
-After logging in:
-![[fe-logged-in.png]]
+After logging in: 
+![After logging in](screenshots/fe-logged-in.png)
 
-Front-end CRUD of the backend:
-![[fe-crud.png]]
+Front-end CRUD of the backend: 
+![Front-end CRUD of the backend](screenshots/fe-crud.png)
